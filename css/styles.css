@@ -1,1 +1,48 @@
 
+.banner img {
+  width: 100%;
+  height: auto;
+}
+
+.title {
+  color: grey;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+nav {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+nav a {
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+.active {
+  color: red;
+  text-decoration: none;
+}
+
+.container {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.map {
+  background-color: #fafafa;
+  height: 480px;
+}
+
+.margin-bottom {
+  margin-bottom: 1rem;
+}
+
+footer {
+  margin-top: 5rem;
+  padding: 2rem;
+  background-color: #525252;
+  color: #fff;
+}
